@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+Game of Thrones Data Visualziation Project
+===================================================================================================
 
-You can use the [editor on GitHub](https://github.com/deydebraj/datavisualizationd3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Authors : 
+	1. Yash Agrawal
+	2. Debraj Dey
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+===================================================================================================
 
-### Markdown
+Folders/Files Contained in the submission package
+		1. Project Code
+			This is the folder containing all the codes that we have implemented. 
+			We have referred to the D3 website and implemented the visualizations.
+			
+			Important Files in this folder : 
+				a. main.html 
+					This is our main page from where you can access all visualizations we have created.
+					It has links to the visualizations.
+				
+				b. interactive web.html
+					This is the HTML Page for our Interaction Graph.
+				
+				c. bubble chart.html
+					This is the HTML page for our interactive bubble visualization.
+				
+				d. force directed graph.html
+					This is the HTML page for our force directed graph.
+					
+				e. style and stle_1.css
+					These are css files we created for our HTML pages and visualizations.
+					
+				f. *.json, *.csv
+					These are our data files.
+					
+		2. Results 
+			This folder contains the screenshots of each of the visualizations that we have created.
+					
+		3. Data Visualziation Report
+			This is our report for the Project. It contains our resutls, our insights, and the implementation technique.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deydebraj/datavisualizationd3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		4. Reference 
+			https://github.com/d3/d3/wiki/Gallery
+===================================================================================================
